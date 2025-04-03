@@ -568,6 +568,283 @@ const categories = {
 
 ],
 
+
+ "EE 4 super": [
+ 
+        {
+            "question": "Electrical contact materials used in switches, brushes, relay must possess?",
+            "choices": [
+                "High thermal conductivity and high melting point",
+                "Low thermal conductivity and low melting point",
+                "High thermal conductivity and low melting point",
+                "Low thermal conductivity and high melting point"
+            ],
+            "answer": "High thermal conductivity and high melting point"
+        },
+        {
+            "question": "Which of the following is not standard distribution voltage?",
+            "choices": ["13.2kV", "13.8kV", "16 kV", "34.5kV"],
+            "answer": "16 kV"
+        },
+        {
+            "question": "In an oscillating LC circuit, the maximum charge on the capacitor is Q. The charge on capacitor when the energy is stored equally between electric and magnetic field is:",
+            "choices": ["Q/2", "Q/V3", "Q/√2", "Q"],
+            "answer": "Q/√2"
+        },
+        {
+            "question": "Which method is used for fast load flow calculation?",
+            "choices": ["Newtons-Raphson", "Gauss Seidel", "Decoupled", "Gauss"],
+            "answer": "Newtons-Raphson"
+        },
+        {
+            "question": "The amount of frequency deviation from the carrier center of frequency for FM transmitter is proportional to what characteristic of the modulating signal?",
+            "choices": ["Phase", "Amplitude", "Frequency", "Shape"],
+            "answer": "Frequency"
+        },
+        {
+            "question": "An act penalizing Pilferage of electricity, theft of transmission lines/materials and rationalizing system loss by phasing out pilferage losses",
+            "choices": ["RA 7920", "RA 7832", "RA 9136", "RA 8495"],
+            "answer": "RA 7832"
+        },
+        {
+            "question": "The synchronous motor can be made self-starting by providing.",
+            "choices": ["Damper winding on rotor poles", "Damper winding on stator", "(a) or (b)", "None of the above"],
+            "answer": "Damper winding on rotor poles"
+        },
+        {
+            "question": "The gassing is the phenomenon which occurs in",
+            "choices": ["Oil transformers", "Mercury arc rectifier", "Cells", "Oil cylinders"],
+            "answer": "Cells"
+        },
+        {
+            "question": "Electric Power Industry Reform Act of 2001 is also known as",
+            "choices": ["RA 7920", "RA 7832", "RA 9136", "RA 8495"],
+            "answer": "RA 9136"
+        },
+        {
+            "question": "A loop test is applied to find the",
+            "choices": ["Ground fault of the cable", "Short circuit fault of the cable", "Open circuit fault of the cable", "(A) or (B)"],
+            "answer": "(A) or (B)"
+        },
+        {
+            "question": "In a generator, short circuit current is limited by",
+            "choices": ["Transient reactance", "Sub-transient reactance", "Synchronous reactance", "All of these"],
+            "answer": "All of these"
+        },
+        {
+            "question": "Order of the lightning discharge current is",
+            "choices": ["10,000-amp", "100-amp", "1 amp", "1 microampere"],
+            "answer": "10,000-amp"
+        },
+        {
+            "question": "Convergence of the transmission load flow is always assured in case of",
+            "choices": ["Newton-Raphson method", "Gauss-Seidel method", "Gauss method", "both A and B"],
+            "answer": "Newton-Raphson method"
+        },
+        {
+            "question": "In a parallel plate capacitor of the capacitance Co the electric field is E. If a dielectric slab with dielectric constant equal to 7 is introduced to fill capacitor completely, capacitance will become",
+            "choices": ["Co", "7Co", "Co/7", "Co/3.5"],
+            "answer": "7Co"
+        },
+        {
+            "question": "In a parallel plate capacitor of the capacitance Co the electric field is E. If a dielectric slab with dielectric constant equal to 7 is introduced to fill capacitor completely, the electric field will become",
+            "choices": ["E/7", "E/3.5", "E", "7E"],
+            "answer": "E/7"
+        },
+        {
+            "question": "Carrier current protection scheme is normally used for",
+            "choices": ["HV transmission lines only.", "HV transmission and cables.", "HV cables only.", "None of the above"],
+            "answer": "HV transmission lines only."
+        },
+        {
+            "question": "AC system has the following disadvantages over DC system",
+            "choices": ["Skin effect exists", "Line regulation is more", "Charging current exists", "Proximity effect exists"],
+            "answer": "Skin effect exists"
+        },
+        {
+            "question": "The transient currents are associated with the.",
+            "choices": [
+                "Applied voltage to the circuit",
+                "Changes in the stored energy in the inductors and capacitors",
+                "Resistance of the circuit",
+                "Impedance of the circuit"
+            ],
+            "answer": "Changes in the stored energy in the inductors and capacitors"
+        },
+        {
+            "question": "In a loss-free R-L-C circuit the transient current is",
+            "choices": ["Sinusoidal", "Oscillating", "None-oscilating", "Square wave"],
+            "answer": "Oscillating"
+        },
+        {
+            "question": "What is the color of neutral wire insulation?",
+            "choices": ["Black", "Yellow", "Green", "White"],
+            "answer": "White"
+        },
+        {
+            "question": "The double energy transients occur in the",
+            "choices": ["R-L circuit", "Pure Inductive Circuit", "R-C circuit", "R-L-C circuit"],
+            "answer": "R-L-C circuit"
+        },
+        {
+            "question": "The resistance phasor of a series RC circuit points to the right. The capacitive reactance phasor points while the diagonal of the rectangle having the two phasors as sides represents the _",
+            "choices": ["Up, impedance", "Down, impedance", "Left, current", "Up, total voltage"],
+            "answer": "Down, impedance"
+        },
+        {
+            "question": "The main purpose of using core in transformer is to?",
+            "choices": ["Decrease reluctance of the common magnetic circuit", "Decrease iron losses", "Prevent hysteresis losses", "Prevent eddy current losses"],
+            "answer": "Decrease reluctance of the common magnetic circuit"
+        },
+        {
+            "question": "If the height of the transmission tower is decreased, the capacitance of the line will.",
+            "choices": ["Increase", "Decrease", "Remain same", "Decrease exponentially"],
+            "answer": "Increase"
+        },
+        {
+            "question": "The maximum load that a power transformer can carry is limited by its",
+            "choices": ["Voltage ratio", "Temperature noise", "Copper loss", "Dielectric strength of oil"],
+            "answer": "Copper loss"
+        },
+        {
+            "question": "Settling time is inversely proportional to product of the damping ratio and",
+            "choices": ["Time constant", "Peak time", "Maximum overshoot", "Undamped natural frequency of the roots"],
+            "answer": "Undamped natural frequency of the roots"
+        },
+        {
+            "question": "Which of the following instruments will be used to measure 500 kV a.c. voltage?",
+            "choices": ["Moving coil voltmeter", "Electrostatic voltmeter", "Moving iron voltmeter", "Hot wire instrument"],
+            "answer": "Electrostatic voltmeter"
+        },
+        {
+            "question": "Which of the following instruments will be used to measure the temperature above 1400 degree centigrade?",
+            "choices": ["A simple thermometer pyrometer", "Electrical resistance pyrometer", "Thermo-electric pyrometer", "None of the above"],
+            "answer": "Thermo-electric pyrometer"
+        },
+        {
+            "question": "The curve between discharge in m/s and time is called",
+            "choices": ["Discharge duration curve", "Load curve", "Hydrograph", "Flow histogram"],
+            "answer": "Discharge duration curve"
+        },
+        {
+            "question": "Percentage of U-235 in natural uranium is",
+            "choices": ["0.235", "235", "2.35", "0.7"],
+            "answer": "0.7"
+        },
+        {
+            "question": "An automatic device that operates at preset values is known as",
+            "choices": ["Mercury switch", "Relay", "Fuse", "Contactor"],
+            "answer": "Relay"
+        },
+        {
+            "question": "How many hours can a load be called a Continuous load?",
+            "choices": ["One hour", "2 hours", "3 hours", "24 hours"],
+            "answer": "3 hours"
+        },
+        {
+            "question": "Commonly used atomic fuels are?",
+            "choices": ["Uranium, U-235", "Plutonium, Pu-239", "Thorium, Th-232", "All of these"],
+            "answer": "All of these"
+        },
+        {
+            "question": "The inductance of line is minimum when",
+            "choices": ["G M D is high", "G M R is high", "Both G M D and G M R are high", "G M D is low but G M R is high"],
+            "answer": "G M R is high"
+        },
+        {
+            "question": "What device is used to measure the temperature of a motor winding while the motor is in operation?",
+            "choices": ["Seismic probe", "Thermocouple", "Proximity probe", "Resistance temperature detector"],
+            "answer": "Thermocouple"
+        },
+        {
+            "question": "The vacuum inside an incandescent lamp is of the order of",
+            "choices": ["10-² mm Hg", "10-³ mm Hg", "10 mm Hg", "10⁵ mm Hg"],
+            "answer": "10-³ mm Hg"
+        },
+        {
+            "question": "What is the function of Zigzag transformer?",
+            "choices": ["Step down the voltage", "Stabilize the voltage", "Step up the voltage", "Derive a neutral for grounding"],
+            "answer": "Derive a neutral for grounding"
+        },
+        {
+            "question": "Which of the following vapors/gas will give yellow color in a filament lamp?",
+            "choices": ["Helium", "Mercury", "Sodium", "Magnesium"],
+            "answer": "Sodium"
+        },
+        {
+            "question": "Which of the following is incorrect about HVDC?",
+            "choices": ["Corona loss is higher in HVDC", "No inductance & Capacitance", "No skin effect in conductor", "Voltage drop is less"],
+            "answer": "Corona loss is higher in HVDC"
+        },
+        {
+            "question": "The value of diverter resistance for a series DC motor is of the order of",
+            "choices": ["0.10", "20", "200", "4000"],
+            "answer": "0.10"
+        },
+        {
+            "question": "The term which allows any person or entity to purchase energy from transmission, distribution whichever has a low charge rate is?",
+            "choices": ["Open Access", "Transmission and Distribution charge", "Electricity Distribution charge", "Generation charge"],
+            "answer": "Open Access"
+        },
+        {
+            "question": "The Dielectric loss can be measured by?",
+            "choices": ["Energy meter", "Electrostatic wattmeter", "Wheatstone bridge", "None of the above"],
+            "answer": "Electrostatic wattmeter"
+        },
+        {
+            "question": "What is the permitted lighting fixture in clothes closet?",
+            "choices": ["Pendant", "Recessed mounted", "Open lights", "Partially enclosed lamp"],
+            "answer": "Recessed mounted"
+        },
+        {
+            "question": "The law that induces emf and current always opposes the cause producing them was discovered by?",
+            "choices": ["Lenz", "Faraday", "Maxwell", "Ohm"],
+            "answer": "Lenz"
+        },
+        {
+            "question": "Disconnecting means should be located in sight belongs to what Rule?",
+            "choices": ["Construction Rule", "Design Rule", "Installation Rule", "Manufacturer's Rule"],
+            "answer": "Installation Rule"
+        },
+        {
+            "question": "A notice issued by the system operator when peace and order problem exist which may affect grid operation is called?",
+            "choices": ["Security alert", "Red alert", "Blue alert", "Yellow alert"],
+            "answer": "Security alert"
+        },
+        {
+            "question": "What is the device used by computers to communicate to other computers through telephone line?",
+            "choices": ["Modem", "DSL", "Cable box", "Telephone interface"],
+            "answer": "Modem"
+        },
+        {
+            "question": "Air Blast circuit breaker is used for?",
+            "choices": ["Over Current", "Short duty", "Intermittent duty", "Repeated duty"],
+            "answer": "Repeated duty"
+        },
+        {
+            "question": "Which of the following distribution system gives the greater reliability?",
+            "choices": ["Radial system", "Ring system", "DC 3-wire system", "Open loop system"],
+            "answer": "Ring system"
+        },
+        {
+            "question": "The characteristic impedance of a transmission line is given by?",
+            "choices": ["(L/C)^(1/2)", "2π(L/C)^(1/2)", "(LC)^(1/2)", "LC"],
+            "answer": "(L/C)^(1/2)"
+        },
+        {
+            "question": "PEC defines as recognizable as suitable for the specific purpose function, use, environment, application and so forth as?",
+            "choices": ["Listed", "Labeled", "Identified", "Isolated"],
+            "answer": "Identified"
+        },
+        {
+            "question": "Which inductor is used at high frequencies?",
+            "choices": ["Cast iron cored", "Iron alloy cored", "Sheet steel cored", "Ceramic cored"],
+            "answer": "Ceramic cored"
+        }
+],
+
+
+	
 };
 
 
