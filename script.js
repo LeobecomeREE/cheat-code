@@ -844,6 +844,430 @@ const categories = {
 ],
 
 
+ "ESAS 4 super": [
+ 
+    {
+        "question": "What refers to a slender member which prevents parts of it structure moving to each other under compressive force?",
+        "choices": ["Tie", "Column", "Arch", "Strut"],
+        "answer": "Strut"
+    },
+    {
+        "question": "An object that has momentum must also have ____",
+        "choices": ["Acceleration", "Impulse", "Kinetic Energy", "Potential Energy"],
+        "answer": "Kinetic Energy"
+    },
+    {
+        "question": "Work and Energy can be a function of all the following EXCEPT:",
+        "choices": ["Force and time", "Force and Distance", "Torque and angular rotation", "Temporary and entropy"],
+        "answer": "Force and time"
+    },
+    {
+        "question": "Given a free-falling body with air resistance neglected, if the final position travelled is four times its initial position. By what factor does the velocity of the body increase?",
+        "choices": ["Twice", "Half", "four times", "same"],
+        "answer": "Twice"
+    },
+    {
+        "question": "Two balls are thrown from the roof of a building with the same initial speed. One is thrown horizontally while the other is thrown at an angle of 20 degrees above the horizontal. Which hits the ground with the greatest speed? Ignore air resistance.",
+        "choices": ["The one thrown horizontally", "The one thrown at 20 degrees", "They hit the ground with the same speed", "The answer cannot be determined with the given information"],
+        "answer": "They hit the ground with the same speed"
+    },
+    {
+        "question": "Which of the following refers to the parallel axis theorem for second moment area for strength of materials?",
+        "choices": ["Maxwell theorem", "Young’s theorem", "Steiner’s theorem", "Mohr’s theorem"],
+        "answer": "Steiner’s theorem"
+    },
+    {
+        "question": "Longitudinal stress in a thin-walled cylinder is___",
+        "choices": ["equal to the hoop stress", "twice the hoop stress", "half of the hoop stress", "one-fourth of hoop stress"],
+        "answer": "half of the hoop stress"
+    },
+    {
+        "question": "Principal stress occur on those plans:",
+        "choices": ["Where the shearing stress is zero", "Which are 45 degrees apart", "Where the shearing stress in minimum", "Which are subjected to pure tension"],
+        "answer": "Where the shearing stress in minimum"
+    },
+    {
+        "question": "The location of the maximum shearing stress in the structural steel rolled section is at the:",
+        "choices": ["Flange junction of web and flange", "Web junction of web and flange", "Uniform a cross section", "Web neutral axis"],
+        "answer": "Web neutral axis"
+    },
+    {
+        "question": "Which statement about area moments of inertia is FALSE?",
+        "choices": ["I = integral of d^2 (dA)", "Area moments of inertia are always positive", "The area closest to the axis of interest are the most significant", "The area moment of inertia arises whenever the magnitude of the surface force varies linearly with distance"],
+        "answer": "The area moment of inertia arises whenever the magnitude of the surface force varies linearly with distance"
+    },
+    {
+        "question": "Which of the following is NOT a method for truss analysis?",
+        "choices": ["Methods of joints", "Methods of sections", "Maxwell diagram", "Methos of transmissibility"],
+        "answer": "Methos of transmissibility"
+    },
+    {
+        "question": "What is rupture strength?",
+        "choices": ["Stress at failure", "Breaking stress", "Tensile Stress", "Maximum Stress"],
+        "answer": "Breaking stress"
+    },
+    {
+        "question": "What is the maximum moment of a beam supported at both ends and carries a uniform load of w throughout its entire length?",
+        "choices": ["wL/2", "wL/2", "wL^2/8", "wL^2/4"],
+        "answer": "wL^2/8"
+    },
+    {
+        "question": "Which of the following are NOT units of pressure?",
+        "choices": ["Pa", "N/m^2", "bars", "kg/m^2"],
+        "answer": "kg/m^2"
+    },
+    {
+        "question": "What is called weight per unit volume of a substance?",
+        "choices": ["Density", "Specific gravity", "Specific weight", "Specific volume"],
+        "answer": "Specific weight"
+    },
+    {
+        "question": "The dimensional formula for specific gravity is given by:",
+        "choices": ["M1L0T1", "M1L1T0", "M0L0T0", "M0L1T1"],
+        "answer": "M0L0T0"
+    },
+    {
+        "question": "An external pressure exerted on a fluid is transmitted uniformly throughout the volume of the fluid. This statement is known as ___",
+        "choices": ["Bernoulli’s theorem", "Pascal’s principles", "Archimedes principle", "Torricelli’s theorem"],
+        "answer": "Pascal’s principles"
+    },
+    {
+        "question": "Which of the following adds head?",
+        "choices": ["Turbine", "Reciprocating pump", "Centrifugal pump", "Rotary pump"],
+        "answer": "Centrifugal pump"
+    },
+    {
+        "question": "Impulse type turbine named after his creator",
+        "choices": ["Pelton", "Kaplan", "Francis", "Propeller"],
+        "answer": "Pelton"
+    },
+    {
+        "question": "A hygrometer is an instrument to measure___",
+        "choices": ["relative density of liquids", "viscosity", "relative humidity", "atmospheric pressure"],
+        "answer": "relative humidity"
+    },
+    {
+        "question": "On doubling the speed, N, of a centrifugal pump, all of the following are true, EXCEPT:",
+        "choices": ["Volume flow rate, Q is increased by a factor of 2", "Head, H is increased by a factor of 4", "Horsepower, P is increased by a factor of 8", "Head, horsepower and volume low rate are independently variable"],
+        "answer": "Head, horsepower and volume low rate are independently variable"
+    },
+    {
+        "question": "Which is NOT covered by Thermodynamics?",
+        "choices": ["Utilization of energy", "Transformation of energy", "Transfer of energy", "Storage of energy"],
+        "answer": "Storage of energy"
+    },
+    {
+        "question": "Dimension of specific volume is ___",
+        "choices": ["Dimension: L³/M"],
+        "answer": "Dimension: L³/M"
+    },
+    {
+        "question": "The refrigerator is left open for 10 hrs, what will happen in the room temperature?",
+        "choices": ["the room will be colder", "The room will slightly increase temperature", "The room will get hotter", "The room will not change its temperature"],
+        "answer": "The room will get hotter"
+    },
+    {
+        "question": "In a quasi-equilibrium process, the pressure in a system",
+        "choices": ["remains constant", "varies with temperature", "is everywhere constant at an instant", "increase if the volume increases"],
+        "answer": "is everywhere constant at an instant"
+    },
+    {
+        "question": "Which of the following in the thermodynamics is considered as the heat content of a system?",
+        "choices": ["Internal heat", "Molar heat", "Entropy", "Enthalpy"],
+        "answer": "Enthalpy"
+    },
+    {
+        "question": "Which of the following is a quasi-equilibrium process?",
+        "choices": ["Mixing paint in a can", "Compression of air in a cylinder", "Combustion", "A balloon bursting"],
+        "answer": "Compression of air in a cylinder"
+    },
+    {
+        "question": "Which of the following is a variable renewable source of energy?",
+        "choices": ["Hydro-power", "Biomass energy", "Geothermal energy", "Solar energy"],
+        "answer": "Solar energy"
+    },
+    {
+        "question": "The space required of a steam power station ____",
+        "choices": ["More than diesel power station", "Equal to diesel power station", "Less than diesel power station", "None of the above"],
+        "answer": "More than diesel power station"
+    },
+    {
+        "question": "What are considered as the “building blocks” of engineering materials?",
+        "choices": ["Atoms", "Elements", "Matters", "Compounds"],
+        "answer": "Atoms"
+    },
+    {
+        "question": "Which of the elements has the highest atomic number?",
+        "choices": ["Titanium", "Uranium", "Radium", "Plutonium"],
+        "answer": "Uranium"
+    },
+    {
+        "question": "The chemical process which occurs when water is added to cement is called___",
+        "choices": ["oxidation", "plastic flow", "Brownian movement", "hydration"],
+        "answer": "hydration"
+    },
+    {
+        "question": "Which of the following is not true about ideal gases?",
+        "choices": ["They move in random motion", "No attractive forces between atoms", "They do not apply pressure", "They have negligible size"],
+        "answer": "They do not apply pressure"
+    },
+    {
+        "question": "An empty glass was initially place with a cube of ice. A water was filled into a glass such that the ice at the top of the glass. What will happen after the ice melts?",
+        "choices": ["cannot determine since no density of ice and water are given", "some spilled", "some spilled on the side of the glass", "nothing spilled"],
+        "answer": "nothing spilled"
+    },
+    {
+        "question": "Chemical bonds are described as having different strengths, strong bonds are also called",
+        "choices": ["primary bonds", "secondary bonds", "tertiary bonds", "none of the bonds"],
+        "answer": "primary bonds"
+    },
+    {
+        "question": "A device used in terminal power plant to reduce air pollution?",
+        "choices": ["Pulverize", "Electrostatic Precipitator", "Desulfurizer", "Chimney"],
+        "answer": "Electrostatic Precipitator"
+    },
+    {
+        "question": "A piece of copper is drawn into a continuous wire. What behavior is the copper exhibiting?",
+        "choices": ["Brittle only", "Elastic only", "plastic only", "both brittle and elastic"],
+        "answer": "plastic only"
+    },
+    {
+        "question": "What characteristics of Tool steel?",
+        "choices": ["water resistance", "heat resistance", "Toughness", "All of these"],
+        "answer": "All of these"
+    },
+    {
+        "question": "Which of the following does cold-working a metal cause?",
+        "choices": [
+            "elongation of grains in the flow direction, an increase in dislocation density, and an overall increase in energy of metal",
+            "elongation of grains in the flow direction, a decrease in dislocation density, and an overall decrease in energy of the metal",
+            "elongation of grains in the flow direction, a decrease in dislocation density, and an overall increase in the energy of the metal",
+            "shortening of gains in the flow direction, a decrease in dislocation density, and an overall decrease in the energy of the metal"
+        ],
+        "answer": "elongation of grains in the flow direction, an increase in dislocation density, and an overall increase in energy of metal"
+    },
+    {
+        "question": "Which of the following statement is FALSE?",
+        "choices": [
+            "High-strength low-alloy steels are not as strong as non-alloy low carbon steels",
+            "Small amounts of copper increase the tensile strength f steels.",
+            "Small amounts of silicon in steels have little influence on toughness or fabricability.",
+            "Addition of small amounts of silicon to steel can cause a marked decrease in yield strength of steel."
+        ],
+        "answer": "High-strength low-alloy steels are not as strong as non-alloy low carbon steels"
+    },
+    {
+        "question": "When sugar is heated and let it cool what happened?",
+        "choices": ["Crystaline to amorphous", "Amorphous to crystalline", "Polymetric to crystalline", "Crystaline to polymetric"],
+        "answer": "Crystaline to amorphous"
+    },
+    {
+        "question": "What is the ASTM tension testing designation for standard methods for steel products?",
+        "choices": ["A370", "E345", "E870", "C674"],
+        "answer": "A370"
+    },
+    {
+        "question": "Which of the following statements is FALSE?",
+        "choices": [
+            "There is considerable increase in hardness and strength of cold-worked metal",
+            "Cold working a metal significantly reduces ductility",
+            "Cold working causes a slight decrease in the density and electrical conductivity of a metal",
+            "Cold work decreases the yield point of metal"
+        ],
+        "answer": "Cold work decreases the yield point of metal"
+    },
+    {
+        "question": "Low carbon steels are generally used in the “as rolled” or “as fabricated” state. What is the reason for this?",
+        "choices": [
+            "They come in many different shapes and thickness",
+            "Their strength generally cannot be increased by heat treatment",
+            "They degrade severely under heat treatment",
+            "Their chromium content is so low"
+        ],
+        "answer": "Their strength generally cannot be increased by heat treatment"
+    },
+    {
+        "question": "Which of the following statements is false?",
+        "choices": [
+            "Hot-working can be regarded ad the simultaneous combination of cold-working and annealing",
+            "Hot working causes much strain hardening of the metal",
+            "Hot working increases the density of the metal",
+            "One of the primary goals of hot working is to produce a fine-grained product"
+        ],
+        "answer": "Hot working causes much strain hardening of the metal"
+    },
+    {
+        "question": "A thin mild steel wire is loaded by adding loads in equal increments till it breaks. The extensions noted with increasing loads will behave as under ___",
+        "choices": ["Uniform throughout", "Increase uniformly", "First increase and then decrease", "Increase uniformly first and then increase rapidly"],
+        "answer": "Increase uniformly first and then increase rapidly"
+    },
+    {
+        "question": "When a source of sound is moving with respect to an observer or an observer is moving with respect to the source, the pitch of sound heard by the observer is different from the pitch heard when the source and observer are both at rest. What do you call this change in the frequency caused by the motion?",
+        "choices": ["skin effect", "hall effect", "Doppler effect", "Peltier effect"],
+        "answer": "Doppler effect"
+    },
+    {
+        "question": "What physical property of a material refers to the highest potential difference that an insulating material of a given thickness can withstand for a specified time without occurrence of electrical breakdown through its bulk?",
+        "choices": ["Thermal expansion", "Conductivity", "Dielectric strength", "Electric Resistivity"],
+        "answer": "Dielectric strength"
+    },
+    {
+        "question": "Objects that emit their own light are called?",
+        "choices": ["Solar", "luminated", "Photovoltaic", "Illuminated"],
+        "answer": "Illuminated"
+    },
+    {
+        "question": "What is the term for a high-speed memory used to store a small amount of data temporarily so that the data can be retrieved quickly?",
+        "choices": ["Cache memory", "Audio and video memory", "Volatile memory", "Scratched memory"],
+        "answer": "Cache memory"
+    },
+    {
+        "question": "Which statement is TRUE about the sparse matrices?",
+        "choices": [
+            "You can use sparse function to remove cells from cell array variables",
+            "The sparse unction requires its input to be a full matrix at least 50% zero elements",
+            "sparse matrices always use less memory than their associated full matrices",
+            "Mixture of sparse and full matrices can be combined in all of MATHLAB’s built in arithmetic operations"
+        ],
+        "answer": "sparse matrices always use less memory than their associated full matrices"
+    },
+    {
+        "question": "Which of the following is NOT a pre-defined variable in MATLAB?",
+        "choices": ["oi", "inf", "j", "gravity"],
+        "answer": "gravity"
+    },
+    {
+        "question": "W, X, and Y are Boolean variables. W and X are inputs to an AND gate and its output combines with Y in another AND gate resulting in Z. What values of W, X, and Y will result in z = 1?",
+        "choices": ["1,0,1", "1,1,1", "1,1,0", "0,1,1"],
+        "answer": "1,1,1"
+    },
+    {
+        "question": "Which of the following is an example of an integrity violation of e-commerce security?",
+        "choices": [
+            "A website is not actually operated by the entity by the customer behaves it to be",
+            "A merchant uses customer information in a manner not intended by the customer",
+            "A customer denies that he or she is the person who placed the order",
+            "An unauthorized person intercepts an online communication and changes its content"
+        ],
+        "answer": "A website is not actually operated by the entity by the customer behaves it to be"
+    },
+    {
+        "question": "Which of the following is CORRECT?",
+        "choices": [
+            "The critical path helps prove how long the project will take",
+            "There can be only one critical path",
+            "The network diagram will change every time the end date changes",
+            "A project can never have negative float"
+        ],
+        "answer": "The critical path helps prove how long the project will take"
+    },
+    {
+        "question": "All of the following are characteristic of a project EXCEPT:",
+        "choices": [
+            "It is temporary",
+            "It has definite beginning and end",
+            "It creates a unique product",
+            "It repeats itself every month"
+        ],
+        "answer": "It repeats itself every month"
+    },
+    {
+        "question": "If project time and cost are not as important as the number of resources used each month, which of the following is the BEST thing to do?",
+        "choices": [
+            "Perform a Monte Cade analysis",
+            "Fast track the project",
+            "perform resource optimization",
+            "Analyze the life cycle cost"
+        ],
+        "answer": "perform resource optimization"
+    },
+    {
+        "question": "Which of the following statements about the Project Management Office (PMO) is TRUE?",
+        "choices": [
+            "The PMO standardizes the management of projects",
+            "A supportive PMO directly manages most projects within organization",
+            "A directive PMO allows the project manager to control most aspects of the project",
+            "A directive PMO provides project managers but is not responsible for the results of projects"
+        ],
+        "answer": "The PMO standardizes the management of projects"
+    },
+    {
+        "question": "What refers to the amount of money paid for the use of borrowed capital?",
+        "choices": ["Interest", "Rate of interest", "Simple interest", "Principal"],
+        "answer": "Interest"
+    },
+    {
+        "question": "The circuit conductors between the final overcurrent device protecting the circuit and the outlet(s).",
+        "choices": ["Service lateral", "Service conductor", "Branch circuit", "Feeder"],
+        "answer": "Branch circuit"
+    },
+    {
+        "question": "Can receptacles are allowed to put under a bathtub or directly over a shower stall?",
+        "choices": [
+            "Yes, outlet must be GFCI protected and weatherproof",
+            "Yes, outlet must be GFCI protected and with cover",
+            "Yes, outlet must be weatherproof",
+            "Never"
+        ],
+        "answer": "Never"
+    },
+    {
+        "question": "The disconnecting means for motor circuits shall have an ampere rating of at least 115% of the full-load current rating of the motor.",
+        "choices": ["Manufacturing rule", "Construction rule", "Wiring design rule", "Installation rule"],
+        "answer": "Installation rule"
+    },
+    {
+        "question": "When the circuit breakers are installed in enclosed switchboards, they are usually derated to a certain percentage. What is the percentage?",
+        "choices": ["60%", "50%", "80%", "70%"],
+        "answer": "80%"
+    },
+    {
+        "question": "The grounding electrode conductor shall be",
+        "choices": ["Copper", "Copper-clad-aluminum", "Aluminum", "all of these"],
+        "answer": "all of these"
+    },
+    {
+        "question": "An enclosure of porcelain or other insulating materials fitting with terminals and intended for connecting the flexible chord carrying a pendant to the permanent wiring is ___",
+        "choices": ["cable bus", "counterpose", "raceway", "rosette"],
+        "answer": "rosette"
+    },
+    {
+        "question": "A spark occurring between nearby metallic objects or from such objects to the lightning protection systems or to ground is called___",
+        "choices": ["Flashover", "Sparkover", "Side flash", "Electrostatic discharge"],
+        "answer": "Side flash"
+    },
+    {
+        "question": "In RA 7920, the minimum age for PEE is",
+        "choices": ["24", "25", "23", "21"],
+        "answer": "25"
+    },
+    {
+        "question": "Which are NOT included in duties and responsibilities of PRBEE?",
+        "choices": [
+            "Supervise and regulate the practice of electrical engineering in the Philippines",
+            "Issue special permits to individual foreign electrical engineers and electricians for specific projects",
+            "Perform such other functions and duties may be necessary to implement as effectivity of this ACT",
+            "All of these"
+        ],
+        "answer": "All of these"
+    },
+    {
+        "question": "It is also referred to as “Anti-electricity and Electric Transmission Lines/Materials Pilferage Act of 1994”",
+        "choices": ["RA 7832", "RA 11361", "RA 11285", "10968"],
+        "answer": "RA 7832"
+    },
+    {
+        "question": "The overall energy program formulated and updated yearly by the DOE and submitted to congress pursuant to RA 7638 is known as PEP which means",
+        "choices": [
+            "Philippine Energy Project",
+            "Philippine Electricity Plant",
+            "Philippine Energy Plan",
+            "Philippine Electrical Project"
+        ],
+        "answer": "Philippine Energy Plan"
+    }
+
+],
 	
 };
 
